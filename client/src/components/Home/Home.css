@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.desc {
+    width: 30%;
+   color: black;
+}
+
+
+.logo img {
+    width: 500px;
+}
